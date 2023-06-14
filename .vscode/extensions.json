@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+      "vscjava.vscode-java-pack",
+      "redhat.vscode-quarkus",
+      "sonarsource.sonarlint-vscode",
+      "redhat.fabric8-analytics",
+      "oderwat.indent-rainbow",
+      "mongodb.mongodb-vscode",
+      "redhat.vscode-xml",
+      "redhat.vscode-yaml"
+    ]
+  }
